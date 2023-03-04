@@ -1,4 +1,4 @@
-name: Octo Organization CI
+name: Hello World CI
 
 on:
   push:
@@ -14,4 +14,4 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Run a one-line script
-        run: echo Hello from Octo Organization
+        run: echo Hello from MichaelYocca
