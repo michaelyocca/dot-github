@@ -1,0 +1,12 @@
+{
+  "name": "MichaelYocca Hello World Workflow",
+  "description": "MichaelYocca CI starter workflow.",
+  "iconName": "example-icon",
+  "categories": [
+      "Terraform",
+      "deployment"
+  ],
+  "filePatterns": [
+      ".*\\.tf$"
+  ]
+}
